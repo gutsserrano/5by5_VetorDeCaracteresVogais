@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5by5_VetorDeCaracteresVogais", "5by5_VetorDeCaracteresVogais\5by5_VetorDeCaracteresVogais.csproj", "{F1B1B05F-4693-493A-9EF7-28030A49CF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B1B05F-4693-493A-9EF7-28030A49CF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B1B05F-4693-493A-9EF7-28030A49CF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B1B05F-4693-493A-9EF7-28030A49CF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B1B05F-4693-493A-9EF7-28030A49CF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EF90BE81-CA64-43C1-9F71-AD0BB7FB1DAD}
+	EndGlobalSection
+EndGlobal
